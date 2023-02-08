@@ -22,19 +22,15 @@ https://archive-beta.ics.uci.edu/
 
 ## Data Visualizations:
 
-#### Dataset: xx
+#### Dataset: 
 
 #### Dataviz 01 - A Scatter Plot represents the relationship between two variables
 
-<p align="center"> <img src="https://miro.medium.com/max/1400/1*djZTOosKmShKUJWCuPFMNQ.png" alt="Dataviz 01" width="50%" height="10%"/> </a> </p>
-
-Insights: 
+under development
 
 #### Dataviz 02 - Scatter Plot showing the relationship between two variables with the points colored based on categories of a third variable.
 
-<p align="center"> <img src="https://miro.medium.com/max/1400/1*djZTOosKmShKUJWCuPFMNQ.png" alt="Dataviz 01" width="50%" height="10%"/> </a> </p>
-
-Insights: 
+under development
 
 ## Contact me 🔗 👇 
 
